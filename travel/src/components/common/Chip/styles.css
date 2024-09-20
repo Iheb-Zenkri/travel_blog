@@ -1,0 +1,26 @@
+.chip {
+  font-size: 0.7rem;
+  background: linear-gradient(to right, #6190e8, #a7bfe8);
+  color: #fff;
+  padding: 0.3rem 0.5rem;
+  border-radius: 5px;
+  width: fit-content;
+  text-transform: capitalize;
+  transition: 0.5s;
+  background-size: 200% auto;
+}
+
+.price{
+  font-size: 0.8rem;
+  background-image: linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%);  color: #fff;
+  padding: 0.4rem 0.9rem;
+  border-radius: 5px;
+  width: fit-content;
+  text-transform: capitalize;
+  transition: 0.5s;
+  background-size: 200% auto;
+}
+
+.price:hover, .chip:hover {
+  background-position: right center; 
+}

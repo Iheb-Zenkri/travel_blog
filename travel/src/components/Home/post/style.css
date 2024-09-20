@@ -1,0 +1,19 @@
+.post{
+    width: fit-content;
+    margin: auto auto 1rem auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.post button {
+    outline: none;
+    border: none;
+    color : #f0f0f0 ;
+    padding: 0.7rem 3.8rem;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgba(0, 255, 255, 1), rgba(0, 0, 255, 1));
+    transition: 0.5s;
+    cursor: pointer;
+}

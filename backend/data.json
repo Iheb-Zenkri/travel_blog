@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1716035456069,
+    "title": "Randonnée Aventurière",
+    "category": "Népal",
+    "description": "Partez pour un voyage palpitant à travers l'Himalaya.",
+    "authorName": "James",
+    "createdAt": "2024-05-05",
+    "price": "1880€",
+    "coverId": "2"
+  },
+  {
+    "id": 1716313774740,
+    "title": "Escapade",
+    "category": "Turkey",
+    "description": "Une expérience à couper le souffle avec des eaux cristallines et des plages de sable.",
+    "authorName": "Aymen",
+    "createdAt": "2024-05-10",
+    "coverId": "10",
+    "price": "1850$"
+  }
+]
